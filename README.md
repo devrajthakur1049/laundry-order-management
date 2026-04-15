@@ -1,10 +1,9 @@
-# 🧺 CleanTrack — Mini Laundry Order Management System
+ Mini Laundry Order Management System
 
 A lightweight, AI-first order management system for dry cleaning stores. Built with Node.js + Express and an in-memory store. Includes a full frontend UI served from the same server.
 
 ---
-
-## 🚀 Setup Instructions
+Setup Instructions
 
 ### Prerequisites
 - Node.js v16 or later
@@ -32,7 +31,7 @@ Server runs at: **http://localhost:3000**
 
 ---
 
-## ✅ Features Implemented
+ Features Implemented
 
 | Feature | Status |
 |---|---|
@@ -123,12 +122,9 @@ Query params (all optional):
 
 ---
 
-## 🤖 AI Usage Report
 
-### Tools Used
-- **Claude (Anthropic)** — Primary scaffolding, business logic, and frontend generation
 
----
+
 
 ### Sample Prompts Used
 
